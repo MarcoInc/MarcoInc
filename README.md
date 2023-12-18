@@ -1,16 +1,77 @@
-### Hi there 👋
+<h1>Hi there 👋, I'm Marco</h1>
 
-<!--
-**MarcoInc/MarcoInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+An another Junior Full-Stack Web Developer
+</h3>
 
-Here are some ideas to get you started:
+<h3>My social:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/idaalessandrascottodiluzio-webdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <br>
+
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel&theme=light" />
+  </a>
+
+   <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <br>
+
+  
+   <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+
+   <a href="https://www.w3schools.com/c/index.php">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+
+   <a href="https://www.w3schools.com/cpp/default.asp">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+
+   <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <br>
+
+  <a href="https://unity.com">
+    <img src="https://skillicons.dev/icons?i=unity" />
+  </a>
+
+<a href="https://www.raspberrypi.com">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  </a>
+
+  <a href="https://www.linux.it/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+
+
+</p>

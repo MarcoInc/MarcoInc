@@ -21,13 +21,13 @@ An another Junior Full-Stack Web Developer
   <a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
+  
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
   <br>
 

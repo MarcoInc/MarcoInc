@@ -38,9 +38,7 @@ An another Junior Full-Stack Web Developer
     <img src="https://skillicons.dev/icons?i=laravel&theme=light" />
   </a>
 
-   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
+ 
   <br>
 
   
@@ -72,6 +70,12 @@ An another Junior Full-Stack Web Developer
   <a href="https://www.linux.it/">
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
+  
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  
 
 
 </p>

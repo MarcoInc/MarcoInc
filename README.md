@@ -16,9 +16,7 @@ An another Junior Full-Stack Web Developer
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html" />
 
-  <a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" />
-  </a>
   
   <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />

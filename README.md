@@ -6,7 +6,7 @@ An another Junior Full-Stack Web Developer
 
 <h3>My social:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/idaalessandrascottodiluzio-webdev/">
+  <a href="https://www.linkedin.com/in/marcosotera-webdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -14,9 +14,7 @@ An another Junior Full-Stack Web Developer
 <h3>Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=html" />
-  </a>
 
   <a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" />
